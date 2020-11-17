@@ -1,0 +1,8 @@
+{ "private": true,
+  "name": "update_build_gulp",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": " <nedosekinstanislav@gmail.com>",
+  "license": "ISC"
+}
