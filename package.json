@@ -1,8 +1,14 @@
-{ "private": true,
+{
+  "private": true,
+  "type": "module",
   "name": "update_build_gulp",
   "scripts": {
     "start": "gulp"
   },
   "author": " <nedosekinstanislav@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
 }
