@@ -1,1 +1,1 @@
-// console.log('Is true hot reload');
+const isWork = console.log('Gulp amazing!');

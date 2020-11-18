@@ -1,0 +1,1 @@
+"use strict";var isWork=console.log("Gulp amazing!");

@@ -1,4 +1,6 @@
-body {
-  background: pink;
-  color: white;
-  font-size: 3em; }
+.page__body {
+  background: purple;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  font-size: 2rem; }
